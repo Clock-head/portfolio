@@ -111,9 +111,9 @@ section {
 }
 
 article.resume {
-  margin-bottom: 50%;
+  margin-bottom: 50px;
   margin-right: 15%;
-  margin-left: 15%;
+  margin-left: 10%;
 }
 
 body {
@@ -291,6 +291,7 @@ p.resume2 {
 
 header.resume {
   margin-left: 17%;
+  margin-right: 20%;
   max-width: 800px;
 }
 
