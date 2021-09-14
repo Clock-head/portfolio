@@ -280,12 +280,12 @@ p {
 
 p.resume1 {
   font-size: 25px;
-  margin-left: 200px;
+  margin-left: 15%;
   margin-bottom: 0px;
 }
 
 p.resume2 {
-  margin-left: 200px;
+  margin-left: 15%;
   margin-right: 150px;
 
   font-size: 20px;
@@ -329,7 +329,7 @@ h2 {
 }
 
 h2.resume {
-  margin-left: 200px;
+  margin-left: 15%;
   margin-bottom: 10px;
 }
 
