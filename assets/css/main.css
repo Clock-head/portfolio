@@ -111,7 +111,7 @@ section {
 }
 
 article.resume {
-  margin-bottom: 150px;
+  margin-bottom: 50%;
 }
 
 body {
@@ -280,20 +280,16 @@ p {
 
 p.resume1 {
   font-size: 1.25rem;
-  margin-left: 15%;
   margin-bottom: 0px;
 }
 
 p.resume2 {
-  margin-left: 15%;
-  margin-right: 150px;
-
   font-size: 1rem;
 }
 
 header.resume {
-  max-width: 1200px;
-
+  margin-left: 20%;
+  max-width: 720px;
 }
 
 h1,
@@ -334,7 +330,7 @@ h2 {
 }
 
 h2.resume {
-  margin-left: 13%;
+  margin-left: 20%;
   margin-bottom: 10px;
   font-size: 2rem;
 }
@@ -3918,7 +3914,6 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   max-width: 72rem;
   z-index: 2;
   opacity: 0.9;
-  
 }
 
 #main > * {
